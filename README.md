@@ -15,5 +15,3 @@ Hi, I'm an undergraduate student at Shanghai Jiao Tong University. Currently, I'
 
 ## Contact
 - **Email**: [smily0422@sjtu.edu.cn](mailto:smily0422@sjtu.edu.cn)
-Email: smily0422@sjtu.edu.cn
-
