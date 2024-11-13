@@ -5,7 +5,8 @@ Hi, I'm an undergraduate student at Shanghai Jiao Tong University. Currently, I'
 
 ## Education
 - **Undergraduate Student**  
-  *Shanghai Jiao Tong University (SJTU)  2022 - Present*
+  *Shanghai Jiao Tong University (SJTU)*
+  *2022 - Present*
 
 ## Areas of Expertise
 - **Computer Vision** (2024 - Present)  
